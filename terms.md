@@ -35,4 +35,9 @@ We reserve the right to modify or discontinue the Application, or amend these Te
 Use of this application is also subject to the Google Workspace Marketplace Terms of Service and the Google API Services User Data Policy.
 
 ---
+## 7. Contact & Support
+If you have any questions or concerns regarding these Terms, please contact us via our developer support page at https://danielchakraborty.com.
+
+---
+
 Google Sheets™ and Google Workspace™ are trademarks of Google LLC.
